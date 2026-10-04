@@ -39,6 +39,10 @@ famous for breaking people who did exactly that when the evaluator changes `BUFF
 4. Read the man pages linked. Actually read them.
 5. Write it. Get it wrong. Debug it. That's the project.
 6. Test with *several* buffer sizes from the very first day.
+7. Before you submit, read [11 — README and defense](guides/11-readme-and-defense.md).
+
+> Based on subject **version 1.3**, which has **no bonus part**. If your subject version
+> differs, the subject always wins over this repo.
 
 ## Guides
 
@@ -55,7 +59,7 @@ famous for breaking people who did exactly that when the evaluator changes `BUFF
 | 08 | [Structuring your project](guides/08-structuring-your-project.md) | Files, Norm, compile flags |
 | 09 | [Testing and debugging](guides/09-testing-and-debugging.md) | Catch your own bugs |
 | 10 | [Common pitfalls](guides/10-common-pitfalls.md) | Questions that catch most people out |
-| 11 | [Bonus](guides/11-bonus.md) | Several file descriptors at once |
+| 11 | [README and defense](guides/11-readme-and-defense.md) | The README the subject requires, and what to expect in the review |
 
 ## General resources
 
