@@ -39,7 +39,6 @@ famous for breaking people who did exactly that when the evaluator changes `BUFF
 4. Read the man pages linked. Actually read them.
 5. Write it. Get it wrong. Debug it. That's the project.
 6. Test with *several* buffer sizes from the very first day.
-7. Before you submit, read [11 — README and defense](guides/11-readme-and-defense.md).
 
 > Based on subject **version 1.3**, which has **no bonus part**. If your subject version
 > differs, the subject always wins over this repo.
