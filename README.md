@@ -59,7 +59,6 @@ famous for breaking people who did exactly that when the evaluator changes `BUFF
 | 08 | [Structuring your project](guides/08-structuring-your-project.md) | Files, Norm, compile flags |
 | 09 | [Testing and debugging](guides/09-testing-and-debugging.md) | Catch your own bugs |
 | 10 | [Common pitfalls](guides/10-common-pitfalls.md) | Questions that catch most people out |
-| 11 | [README and defense](guides/11-readme-and-defense.md) | The README the subject requires, and what to expect in the review |
 
 ## General resources
 
